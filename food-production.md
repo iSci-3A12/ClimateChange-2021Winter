@@ -17,7 +17,7 @@ parent: Research Public Summaries
 <p align=justify>Regenerative agriculture (RA) describes practices that aim to produce a net positive environmental and social impact (Newton et al., 2020). While these are environment-dependent, several are commonly used throughout the globe, including no-till farming, cover crops, crop diversity, and managed grazing/integrating animals (Figure 1). These sustainable practices all contribute to carbon sequestration, or the transfer of carbon from the atmosphere into the soil, which is the primary method whereby RA combats climate change.</p>
 
 <p align="center">
-<img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Screen%20Shot%202021-03-14%20at%207.56.02%20PM.png" width="650"/>
+<img src="assets/img/food-production-fig1.png" width="650"/>
 </p>
 
 <p align="center"> <i><b> Figure 1: </b> Regenerative agriculture practices of no-till farming, cover crops, crop diversity, and managed grazing. Each practice contributes to carbon sequestration in a unique way. Figure created by authors.</i></p>
@@ -32,7 +32,7 @@ parent: Research Public Summaries
 <p align=justify>CM faces a number of challenges limiting their feasibility for large-scale production. This  includes technological issues—such as the use of fetal bovine serum, an expensive growth medium which greatly increases the cost of the product and has been difficult to replace—and concerns with public opinion (Choudhury, Tseng and Swartz, 2020). Although a number of studies have shown consumer willingness to try CM, public outreach would be necessary to allay concerns (Bryant, van Nek and Rolland, 2020). Over 30 companies are currently working on CM and have amassed significant investment (Figure 2).</p>
 
 <p align="center">
-<img src="https://github.com/chantelle-castelino/CC-executive-summary/blob/main/Messages%20Image(2779199033).jpeg" width="650"/>
+<img src="assets/img/food-production-fig2.jpeg" width="650"/>
 </p>
 
 <p align="center"> <i><b> Figure 2: </b> Graph of publicly disclosed investment in CM companies (millions of USD) from 2015-2020. Green bars show the year’s investment and grey bars show the cumulative investment of the previous years. Numbers above each bar show the cumulative investment for each year. Figure created by the authors using data from (Choudhury, Tseng and Swartz, 2020). </i></p>
