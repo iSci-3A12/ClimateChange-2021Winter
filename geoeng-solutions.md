@@ -17,9 +17,9 @@ Stratospheric aerosol injection (SAI) is a SRM technique that involves the injec
 BECCS and SAI have distinct implementation strategies. A global BECCS initiative is made up of many individual units, while SAI is a large, centralized operation that requires massive initial development (Brovkin et al., 2009; National Research Council, 2015). This gives BECCS the ability to function using various private enterprises, as opposed to SAI, which requires collective initiative and funding from multiple nations. Once implemented, BECCS can start and stop operation with no negative implications, as it only affects the rate at which CO<sub>2</sub> is removed from the atmosphere. SAI, on the other hand, carries the risk of a termination shock if injections were stopped, potentially causing a rapid and damaging rise in temperatures (Brovkin et al., 2009). Other important factors including environmental impacts, government and public approval, and financial considerations of BECCS and SAI can be found in Table 1, which demonstrate the favourability of BECCS. 
 
 Table 1: A comparison of the benefits and disadvantages of BECCS and SAI as geoengineering techniques. 
-<p align="center">
-<img src="assets/img/geoeng-solutions-table1.png" width="650"/>
-</p>
+
+<img alt="table comparing BECCS and SAI with respect to a number of measures." src="assets/img/geoeng-solutions-table1.png" width="750"/>
+
 
 <!--
 | CHARACTERISTIC OF TECHNOLOGY                                                                                                                       |        BECCS       |         SAI        |
