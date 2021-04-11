@@ -22,21 +22,21 @@ ISCI 3A12
 ## Introduction
 Though rarely discussed, military conflicts are a massive contributor to climate change. Here, we will be focusing on three case studies (**Figure 1**) of militarism’s impact on the climate of biodiverse areas (Hanson et al., 2009), by discussing conflicts ingrained in the cultural collective memory.
 
-![Figure 1](https://github.com/Arshinoff-S/group-6-executive-summary/blob/main/ES%20-%20Fig%201.png)
+![Figure 1](assets/img/war-military-fig1.png)
 
 <sub>**Figure 1**: A map showing the locations of the three environmental catastrophes caused by military conflicts that will be discussed in this paper. Map created using Mapchart (Minas, 2021)</sub>
 
 ## The Nuclear Bombings of Hiroshima and Nagasaki, 1945
 The nuclear bombings of Hiroshima and Nagasaki in 1945 during WWII left devastating humanitarian and ecological consequences. On top of the near 160,000 people that were killed, over half of the wildlife within 16 km^2 of each bombing were also wiped out. However, the proliferation of nuclear weapons continued thereafter, with the size of the global arsenal reaching its peak in 1986, as seen in **Figure 2** (Norris & Kristensen, 2010). While even the production and storage of these weapons is known to cause detrimental human and environmental impacts, a war fought with only a small fraction of the world’s current arsenal would result in millions of deaths and a dramatic change in climate. Rapid and extreme global cooling and loss of ozone would lead to mass starvation worldwide. Policies created to reduce the world’s arsenal have had questionable efficacy, making nuclear warfare a continued concern.
 
-![Figure 2](https://github.com/Arshinoff-S/group-6-executive-summary/blob/main/ES%20-%20Fig%202.png)
+![Figure 2](assets/img/war-military-fig2.png)
 
 <sub>**Figure 2**: United States (orange) and Russian (grey) the two largest reported nuclear arsenal sizes from the 1960s to 2010 based on data from Norris & Kristensen (2010).</sub>
 
 ## The Weaponization of Herbicides in the Vietnam War, 1961- 75
 From 1961-75, the Vietnam War brought environmental devastation via deliberate, careless use of the herbicide, Agent Orange (Asia Pacific Curriculum, 2018; Westing, 1983). Approximately half of the commercial forests, crops and mangrove habitats were heavily damaged, resulting in significant biodiversity and economic losses, seen in **Figure 3** (Eyrich, 2018; Orians and Pfeiffer, 1970; Westing, 1983).
 
-![Figure 3](https://github.com/Arshinoff-S/group-6-executive-summary/blob/main/ES%20-%20Fig%203.png)
+![Figure 3](assets/img/war-military-fig3.png)
 
 <sub>**Figure 3**: Estimated areas (1 acre = 0.4 ha) treated with Agent Orange in Vietnam from 1962-1968. The actual area sprayed is unknown as several areas were resprayed and high winds may have spread the herbicide away from the targeted area. Notice that with the peak in defoliation in 1965, the area of crops destroyed skyrockets as well (adapted from Orians and Pfeiffer, 1970).</sub>
 
@@ -45,7 +45,7 @@ Clean-up of Agent Orange and dioxin, its toxic impurity, largely fell on Vietnam
 ## Oil Fires in Kuwait during the Gulf War, 1991
 The First Gulf War (1990-91) saw the disastrous effects of using oil as a weapon of war. When withdrawing from the Allied forces, Iraqi troops set fire to and damaged over 700 oil wells, resulting in the largest oil spill in human history (Khordagui and Al-Ajmi, 1993). Crude oil guzzled into the Persian Gulf and across the desert, dramatically affecting the biodiversity and settling into 300 oil lakes. The residue mixed with gravel to create a thick sediment of “tarcrete”, which is poisonous to flora (Koch and El-Baz, 1998). Using Landsat and other satellite data (**Figure 4**), volunteers put out the fires and cleaned the marine environment (Literathy, 1992). The establishment of a post-war claims mechanism, the United Nations Compensation Commission (UNCC), not only helped neighboring states recover from individual losses during the war, but also highlighted the environmental damage caused, which was a step in the right direction (United Nations Compensation Commission, 1991).
 
-![Figure 4](https://github.com/Arshinoff-S/group-6-executive-summary/blob/main/ES%20-%20Fig%204.png)
+![Figure 4](assets/img/war-military-fig4.png)
 
 <sub>**Figure 4**: These Landsat images show the before, during and after the cumulative release of 1.5 billion barrels of oil into the Kuwaiti environment, just south of the Iraq border (yellow line; Gray, 2012)</sub>
 
