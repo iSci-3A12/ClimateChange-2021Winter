@@ -17,27 +17,27 @@ One way to measure SLR is through satellite image analysis. Using open-source sa
  
  
 <p align="center">
-  <img width="702" height="694" src="https://github.com/celejewm/cele-webski/blob/main/docs/Figure%201.png">
+  <img width="702" height="694" src="assets/img/sea-level-rise-fig1.png">
 </p>
 Figure 1: A map depicting the chosen sites for satellite imagery sea surface temperature analysis (created by authors in ArcGIS Pro).
 
 
 
 <p align="center">
-  <img width="1029" height="613" src="https://github.com/celejewm/cele-webski/blob/main/docs/Figure%202.png">
+  <img width="1029" height="613" src="assets/img/sea-level-rise-fig2.png">
 </p>
 Figure 2: A graph depicting the sea surface temperatures over time at Site A based on ENVI analysis (created by authors in Microsoft Excel).
 
 
 <p align="center">
-  <img width="1031" height="615" src="https://github.com/celejewm/cele-webski/blob/main/docs/Figure%203.png">
+  <img width="1031" height="615" src="assets/img/sea-level-rise-fig3.png">
 </p>
 Figure 3: A graph depicting the sea surface temperatures over time at Site B based on ENVI analysis (created by authors in Microsoft Excel).
 
 
 
 <p align="center">
-  <img width="1029" height="614" src="https://github.com/celejewm/cele-webski/blob/main/docs/Figure%20four.png">
+  <img width="1029" height="614" src="assets/img/sea-level-rise-fig4.png">
 </p>
 
 Figure 4: A graph depicting the sea surface temperatures over time at Site C based on ENVI analysis (created by authors in Microsoft Excel).
