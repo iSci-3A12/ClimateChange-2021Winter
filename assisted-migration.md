@@ -2,7 +2,7 @@
 layout: default
 title: Assisted Migration 
 nav_order: 2
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 # **Assisted Migration as a Response to Climate Change in The Boreal Forest**

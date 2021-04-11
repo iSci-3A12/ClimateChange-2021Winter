@@ -2,7 +2,7 @@
 layout: default
 title: Policy and Infrastructure
 nav_order: 5
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 # Executive Summary

@@ -2,7 +2,7 @@
 layout: default
 title: Education
 nav_order: 7
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 # Climate Change Education in Canada

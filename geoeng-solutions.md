@@ -2,7 +2,7 @@
 layout: default
 title: Geoengineering Solutions
 nav_order: 9
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 ### Introduction to Geoengineering

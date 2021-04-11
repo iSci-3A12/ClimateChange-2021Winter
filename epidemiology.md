@@ -2,7 +2,7 @@
 layout: default
 title: Epidemiology
 nav_order: 3
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 # A Hot Topic: Climate Change and Epidemiology (Executive Summary)

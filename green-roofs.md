@@ -2,7 +2,7 @@
 layout: default
 title: Green Roofs
 nav_order: 8
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 # Hamilton Green Roof Project: Executive Summary

@@ -2,7 +2,7 @@
 layout: default
 title: Geoengineering Ethics
 nav_order: 10
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 # The Ethics of Geoengineering

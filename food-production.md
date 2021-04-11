@@ -2,7 +2,7 @@
 layout: default
 title: Food Production
 nav_order: 1
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 # <p align=center> Eating Meat: The Problem or the Solution? <br> The Potential of Regenerative Agriculture & Cultured Meats to Curb Climate Change </p> 

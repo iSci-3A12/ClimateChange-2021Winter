@@ -2,7 +2,7 @@
 layout: default
 title: Air Pollution in Hamilton
 nav_order: 4
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 # Air Pollution in Hamilton

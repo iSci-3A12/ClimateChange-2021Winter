@@ -2,7 +2,7 @@
 layout: default
 title: Sea Level Rise
 nav_order: 11
-parent: public-summary
+parent: Research Public Summaries
 ---
 
 ## Climate Change and Sea Level Rise
