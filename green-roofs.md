@@ -14,7 +14,7 @@ ISCI 3A12: Climate Change
 Climate change is a pressing issue around the world, and cities have begun focusing on advocating for the use of green roofs to increase the amount of green space and to mitigate some of the effects of climate change within urban environments. A green roof is any layer of vegetation that is planted on flat or slightly slanted roofs, and is composed of layers as shown in Figure 1 (NPS, 2021; Green Infrastructure Ontario, 2020). There are three different types of green roofs: intensive, semi-intensive, and extensive. They differ based on the depth of the substrate and the type of plants grown (Table 1) (Manso et al., 2021). When designing green roofs, the location of implementation, the type of green roof and the plants used must be considered to optimize the benefits. We have decided to propose the implementation of green roofs in Hamilton, ON, to promote the use of green roofs in smaller urban centers within Canada.
 
 <p align="center">
-  <img width="480" height="360" src="https://github.com/ahmedz35/zargham-test/blob/main/docs/green%20roof.png">
+  <img width="480" height="360" src="assets/img/green-roofs-fig1.png">
 </p>
 
 *__Figure 1:__ Seven layers required for green roofs construction (Adapted from Suszanowicz and Kolasa Więcek, 2019; vecteezy-pngs, n.d.).*
@@ -23,7 +23,7 @@ Climate change is a pressing issue around the world, and cities have begun focus
 <br>
 *__Table 1:__ Soil depths and types of plants that can be grown on different types of green roofs (Shafique, Kim and Rafiq, 2018; Manso et al., 2021).*
 <p  align="center">
-  <img img width="555px" height="175px" src="https://github.com/keshikaa122/climateclaims/blob/main/images/GreenRoof_Table.png">
+  <img img width="555px" height="175px" src="assets/img/green-roofs-table1.png">
 </p>
 
 ## Summary of the Impacts of Green Roofs
@@ -43,7 +43,7 @@ We propose that the City of Hamilton implement the following legislation, simila
 <br>
 
 <p align="center">
-  <img width="396" height="290" src="https://github.com/ahmedz35/zargham-test/blob/main/docs/Hamproj1.png">
+  <img width="396" height="290" src="assets/img/green-roofs-fig2.png">
 </p>
 
 *__Figure 2:__ Regions of recent development in the greater Hamilton Area, outside of the downtown area. These developing areas are good locations for the beginning of the proposed green roof project (City of Hamilton, 2020a; b).*
@@ -51,7 +51,7 @@ We propose that the City of Hamilton implement the following legislation, simila
 <br>
 
 <p align="center">
-  <img width="608" height="800" src="https://github.com/ahmedz35/zargham-test/blob/main/docs/hamproj2.png">
+  <img width="608" height="800" src="assets/img/green-roofs-fig3.png">
 </p>
 
 *__Figure 3:__ Sites of planned development in the regions outlined in Figure 2. The areas marked by red/orange are specific lots where new condominiums or apartment buildings are being constructed (City of Hamilton, 2020a; b).*
