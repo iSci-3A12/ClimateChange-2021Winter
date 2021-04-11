@@ -12,7 +12,7 @@ parent: Research Public Summaries
 ## Introduction
 Geoengineering is the “deliberate large-scale manipulation of the planetary environment to counteract anthropogenic climate change” (The Royal Society, 2009, p.1), and its discussion has become increasingly mainstream in recent years (IPCC, 2015). Although these technologies are still largely speculative, the social, legal, and political issues presented by geoengineering are already hotly debated — these arguments are discussed below in order to explore the question “is geoengineering ethical?”
 
-![gunge](https://user-images.githubusercontent.com/77259107/110865051-ff983a00-8290-11eb-939d-9ef3e94fc49b.png)
+![gunge](assets/img/geoeng-ethics-fig1.png)
 **Figure 1.** Geoengineering presents ethical challenges at every stage, from contemplating it as a prospect to planning for its cessation. Here, important issues to consider at the Prospective, Research and Development, Implementation, and Post-Implementation stages are represented graphically. The colours of the bars represent the stages at which each issue is most relevant.
 
 ## Historical Ecological Interventions as Geoengineering Analogues
