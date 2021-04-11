@@ -15,7 +15,7 @@ Climate change is a daunting issue that can only be resolved by creative and col
 To better understand the state of climate change education for grade eight students in Canada, we analyzed the grade eight science curriculums of each Canadian province and territory. We used the climate change curriculum framework outlined by Nicholas and colleagues (2014), which incorporates important messages and findings from the IPCC Fifth Assessment Report. Curriculums were evaluated based on its coverage of six core topics: *It’s climate*, *It’s warming*, *It’s us*, *Experts agree*, *It’s bad*, and *We can fix it*. Results showed that *It’s climate* and *It’s us* was covered by 12 out of 13 provinces/territories. Alarmingly, only one province/territory covered *Experts agree*, Yukon. In fact, Yukon had the most comprehensive coverage of climate change, covering all six core topics. Therefore, as Yukon demonstrates, a good curriculum should outline and accurately address all six core topics. It should also discuss climate change issues local to each province and territory to highlight its relevance to student’s personal lives.
 
 <p align="center">
-  <img width="700" height="550" src="https://user-images.githubusercontent.com/78322723/111041905-94717380-8408-11eb-8037-5d835597ee37.jpeg">
+  <img width="700" height="550" src="assets/img/education-fig1.jpeg">
 </p>
 
 **Figure 1**: Map showing a provincial and territorial breakdown of the student population and the coverage of the six climate change core topics. Each pie graph represents one core topic that indicates no coverage (blank rectangle), suggested coverage (striped-line rectangle), or mandatory coverage (solid coloured rectangle) within the curriculum.
