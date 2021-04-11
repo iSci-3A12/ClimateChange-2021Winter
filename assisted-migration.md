@@ -16,7 +16,7 @@ Found exclusively in the northernmost countries of the world, boreal forests non
 
 Assisted migration (AM) is the human-administered movement of species to more climatically suitable regions (Government of Canada, 2013). Three types of AM can be implemented (Figure 1): assisted population migration (low-risk), assisted range expansion (intermediate-risk), and assisted long-distance migration (high-risk) (Government of Canada, 2013).  
 
-![Assisted-Migration-Figure](https://user-images.githubusercontent.com/62079415/111057480-3ff8e300-845e-11eb-9263-25aceffb7ba2.jpg)
+![Assisted-Migration-Figure](assets/img/assisted-migration-fig1.jpg)
 *Figure 1: A diagram depicting the three main types of AM. Assisted population migration (left) is where a population within a species is migrated to an area within its species’ current range (green area) that is dominated by another population of the same species. Assisted range expansion (middle) is where a species of tree is migrated to the area adjacent to its current range (blue area). Assisted long-distance migration (right) is where a species is migrated to an area not adjacent to its current range, usually a long distance (yellow area). Figure created by authors using BioRender.*
 
 ### Potential Benefits of Assisted Migration
