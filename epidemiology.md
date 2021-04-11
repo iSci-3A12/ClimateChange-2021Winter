@@ -15,7 +15,7 @@ Climate influences many natural systems. One potentially devastating consequence
 
 Cholera is a human illness caused by a bacterium called Vibrio cholerae, which is naturally present in bodies of water around the world, and is responsible for many deaths in low-income countries (Constantin de Magny and Colwell, 2009). Its transmission is affected by regional temperature and precipitation. Higher temperatures lead to greater proliferation of cholera bacteria, while precipitation affects their aquatic habitat (Paz, 2009). Three separate studies demonstrated that changes in rainfall are strongly correlated with increases in cholera occurrence, indicating that changes in precipitation patterns associated with climate change may increase cholera incidence (Eisenberg et al., 2013; Lemaitre et al., 2019; Hashizume et al., 2008).
 
-![Malaria map](https://github.com/cbrinz/images/blob/main/malariaspread.jpg)
+![Malaria map](assets/img/epidemiology-fig1.jpg)
 
 *Figure 1: A map of the current areas of malaria distribution (in yellow), and the possible expansion of these areas due to climate change by 2050, based on a model by the Hadley Centre (in red) (Rogers and Randolph, 2000; de Souza, Owusu and Wilson, 2012).*
 
