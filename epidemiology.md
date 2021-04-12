@@ -6,8 +6,11 @@ parent: Research Public Summaries
 ---
 
 # A Hot Topic: Climate Change and Epidemiology (Executive Summary)
+
 ## Investigating the disease dynamics of cholera, malaria, and influenza in response to climatic variation 
+
 #### Christina Brinza, Grace Burgess, Sydney Deslippe, Michelle Kooleshova, Will Roderick
+
 #### March 14, 2021
 #### ISCI 3A12
 
