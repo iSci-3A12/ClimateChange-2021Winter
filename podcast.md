@@ -5,10 +5,12 @@ nav_order: 4
 ---
 
 ## Group 1: The Potential of Regenerative Agriculture & Cultured Meats to Curb Climate Change
-
+<audio src="assets/audio/group1-regenerative-farming-&-lab-cultured-meat.mp3" type="audio/mpeg"></audio>
 
 ## Group 2: Assisted Migration as a Response to Climate Change in The Boreal Forest
-
+<audio controls>
+  <source src="assets/img/group2-assisted-migration-and-the-boreal-forest.mp3" type="audio/mpeg">
+</audio>
 
 ## Group 3: A Hot Topic: Climate Change and Epidemiology
 
