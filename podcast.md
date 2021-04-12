@@ -8,13 +8,15 @@ nav_order: 4
 <audio src="assets/audio/group1-regenerative-farming-&-lab-cultured-meat.mp3" type="audio/mpeg"></audio>
 
 ## Group 2: Assisted Migration as a Response to Climate Change in The Boreal Forest
-<audio controls>
-  <source src="assets/img/group2-assisted-migration-and-the-boreal-forest.mp3" type="audio/mpeg">
-</audio>
 
 <audio controls>
   <source src="https://github.com/iSci-3A12/ClimateChange-2021Winter/raw/main/assets/audio/group2-assisted-migration-and-the-boreal-forest.mp3" type="audio/mpeg">
 </audio>
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/iSci-3A12/ClimateChange-2021Winter/master/audio/group2-assisted-migration-and-the-boreal-forest.mp3" type="audio/mpeg">
+</audio>
+
 
 ## Group 3: A Hot Topic: Climate Change and Epidemiology
 
