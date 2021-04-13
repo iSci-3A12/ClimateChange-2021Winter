@@ -4,8 +4,7 @@ title: Geoengineering Solutions
 nav_order: 9
 parent: Research Public Summaries
 ---
-# An Analysis of Two Geoengineering Solutions Against Climate Change
-##BECCS and SAI
+# An Analysis of Two Geoengineering Solutions Against Climate Change: BECCS and SAI
 
 #### Guillaume Hewitt, Ashlyn Roy, Mya Sharma, Dominic Wood
 
