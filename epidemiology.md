@@ -11,9 +11,6 @@ parent: Research Public Summaries
 
 #### Christina Brinza, Grace Burgess, Sydney Deslippe, Michelle Kooleshova, Will Roderick
 
-#### March 14, 2021
-#### ISCI 3A12
-
 Climate influences many natural systems. One potentially devastating consequence of a changing climate is a shift in the range and evolution of human diseases caused by changes in temperature and precipitation. So how can we predict and understand the evolution of disease? To accomplish this, we examine how three diseases—cholera, malaria, and influenza—are predicted to respond to climate change. 
 
 Cholera is a human illness caused by a bacterium called Vibrio cholerae, which is naturally present in bodies of water around the world, and is responsible for many deaths in low-income countries (Constantin de Magny and Colwell, 2009). Its transmission is affected by regional temperature and precipitation. Higher temperatures lead to greater proliferation of cholera bacteria, while precipitation affects their aquatic habitat (Paz, 2009). Three separate studies demonstrated that changes in rainfall are strongly correlated with increases in cholera occurrence, indicating that changes in precipitation patterns associated with climate change may increase cholera incidence (Eisenberg et al., 2013; Lemaitre et al., 2019; Hashizume et al., 2008).
@@ -29,7 +26,7 @@ Lastly, influenza is a viral respiratory disease affecting approximately one bil
 
 These analyses are limited by the presence of confounding variables and the limited applicability to determining the cumulative effect of climate change on the epidemiology of other diseases. Also, the effects of climate change on other aspects of public health are intimately associated with disease epidemiology. For example, a decrease in food availability as a result of climate change could result in malnutrition and mental health risks, which, from a healthcare standpoint, could mean an increase in deficiency diseases and decrease in patient resiliency (Mirsaeidi et al., 2016). Establishing surveillance and response programs capable of eliciting effective and rapid response from healthcare institutions may help to mitigate increasing rates of incidence of cholera and influenza. In summary, climate change will impact the seasonality and range of cholera, malaria, and influenza, as well as other diseases, posing a direct and indirect risk to human health and established health care systems.
 
-#### Works Cited
+### Works Cited
 
 Caminade, C., Kovats, S., Rocklov, J., Tompkins, A.M., Morse, A.P., Colón-González, F.J., Stenlund, H., Martens, P. and Lloyd, S.J., 2014. Impact of climate change on global malaria distribution. *Proceedings of the National Academy of Sciences*, 111(9), pp.3286–3291. https://doi.org/10.1073/pnas.1302089111.
 
