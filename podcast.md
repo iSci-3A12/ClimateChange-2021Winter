@@ -9,7 +9,7 @@ nav_order: 4
 <audio controls>
   <source src="https://github.com/iSci-3A12/ClimateChange-2021Winter/raw/main/assets/audio/group1-regenerative-farming-&-lab-cultured-meat.mp3" type="audio/mpeg">
 </audio>
-Check out this group's [research public summary](food-production).
+Check out this group's [research public summary](food-production.md).
 
 ## Group 2: Assisted Migration as a Response to Climate Change in The Boreal Forest
 #### SHANNON BUCK, HUNTER CLARK, KHALIL HUSEIN, ANNA MORLEY, SELVI PATEL
