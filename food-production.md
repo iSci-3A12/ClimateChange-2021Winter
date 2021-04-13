@@ -7,7 +7,7 @@ parent: Research Public Summaries
 
 # Eating Meat: The Problem or the Solution? 
 ## The Potential of Regenerative Agriculture & Cultured Meats to Curb Climate Change
-by: Saif Alam, Kristen Arnold, Cohen Bolliger, and Chantelle Castelino 
+By: Saif Alam, Kristen Arnold, Cohen Bolliger, and Chantelle Castelino 
 
 ### To Meat or Not To Meat?
 <p align=justify>Climate change is one of the most prominent health and social issues of the 21st century (Levy and Patz, 2015). Current literature indicates a strong relationship between the global food production and consumption system and climate change (Patz et al., 2014). Only in recent years have more environment-friendly initiatives been adopted on an individual level, including shifting to vegan and vegetarian diets. Since plant-based approaches may not be the most realistic expectation for most, this article will investigate whether other pragmatic solutions that do not completely eliminate meat consumption from diets can be largely adopted. Namely, we will be assessing whether regenerative agriculture and cultured meats can serve as more practical alternatives to conventionally farmed meat, while also acting as potential solutions to climate change.</p>
