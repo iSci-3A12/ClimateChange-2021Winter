@@ -7,7 +7,7 @@ parent: Research Public Summaries
 
 # Eating Meat: The Problem or the Solution? 
 ## The Potential of Regenerative Agriculture & Cultured Meats to Curb Climate Change
-By: Saif Alam, Kristen Arnold, Cohen Bolliger, and Chantelle Castelino 
+#### Saif Alam, Kristen Arnold, Cohen Bolliger, and Chantelle Castelino 
 
 ### To Meat or Not To Meat?
 <p align=justify>Climate change is one of the most prominent health and social issues of the 21st century (Levy and Patz, 2015). Current literature indicates a strong relationship between the global food production and consumption system and climate change (Patz et al., 2014). Only in recent years have more environment-friendly initiatives been adopted on an individual level, including shifting to vegan and vegetarian diets. Since plant-based approaches may not be the most realistic expectation for most, this article will investigate whether other pragmatic solutions that do not completely eliminate meat consumption from diets can be largely adopted. Namely, we will be assessing whether regenerative agriculture and cultured meats can serve as more practical alternatives to conventionally farmed meat, while also acting as potential solutions to climate change.</p>
@@ -40,7 +40,7 @@ By: Saif Alam, Kristen Arnold, Cohen Bolliger, and Chantelle Castelino
 ### Conclusion
 <p align=justify>While minimizing meat consumption may be a temporary solution, large-scale change in our agricultural practices may be the key to fighting climate change. There is great promise for both RA and CM as potential solutions – RA serves as an adaptive strategy while CM takes a mitigative approach. Though, further research is required to assess the large-scale implementation of these strategies from a financial, political, and social perspective.</p>
 
-### References 
+## References 
 Al‐Kaisi, M.M. and Lal, R., 2020. Aligning science and policy of regenerative agriculture. Soil Science Society of America Journal, 84(6), pp.1808–1820. https://doi.org/10.1002/saj2.20162.
 
 Bryant, C., van Nek, L. and Rolland, N.C.M., 2020. European Markets for Cultured Meat: A Comparison of Germany and France. Foods (Basel, Switzerland), 9(9). https://doi.org/10.3390/foods9091152.
