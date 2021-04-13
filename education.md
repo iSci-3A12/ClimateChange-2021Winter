@@ -6,12 +6,12 @@ parent: Research Public Summaries
 ---
 
 # Climate Change Education in Canada
-By Bonny Chong, Jonathan Lai, Evlyn Sun & Maya Rajasingham
+#### Bonny Chong, Jonathan Lai, Evlyn Sun & Maya Rajasingham
 
-## Introduction
+### Introduction
 Climate change is a daunting issue that can only be resolved by creative and collaborative actions. Although education is not as popular as other solutions, it has an immense role in enabling future generations to call out and respond innovatively to unsustainable practices contributing to climate change (Cordero, Centeno and Todd, 2020). However, students commonly have misconceptions about climate change, demonstrating the need for a more refined education system (Lambert, Lindgren and Bleicher, 2012). Therefore, this study aims to address the challenges in climate change education and provide a foundation for effective teaching in Canada.
 
-## Curriculum Analysis
+### Curriculum Analysis
 To better understand the state of climate change education for grade eight students in Canada, we analyzed the grade eight science curriculums of each Canadian province and territory. We used the climate change curriculum framework outlined by Nicholas and colleagues (2014), which incorporates important messages and findings from the IPCC Fifth Assessment Report. Curriculums were evaluated based on its coverage of six core topics: *It’s climate*, *It’s warming*, *It’s us*, *Experts agree*, *It’s bad*, and *We can fix it*. Results showed that *It’s climate* and *It’s us* was covered by 12 out of 13 provinces/territories. Alarmingly, only one province/territory covered *Experts agree*, Yukon. In fact, Yukon had the most comprehensive coverage of climate change, covering all six core topics. Therefore, as Yukon demonstrates, a good curriculum should outline and accurately address all six core topics. It should also discuss climate change issues local to each province and territory to highlight its relevance to student’s personal lives.
 
 <p align="center">
@@ -20,7 +20,7 @@ To better understand the state of climate change education for grade eight stude
 
 **Figure 1**: Map showing a provincial and territorial breakdown of the student population and the coverage of the six climate change core topics. Each pie graph represents one core topic that indicates no coverage (blank rectangle), suggested coverage (striped-line rectangle), or mandatory coverage (solid coloured rectangle) within the curriculum.
 
-## Teaching Strategies
+### Teaching Strategies
 Equipping Canada’s teachers with effective teaching strategies to supplement the proposed curriculum changes will lead to higher student engagement. Based on the review article written by Monroe and colleagues (2019), the four most impactful teaching methods include: 1) Engaging in discussion, 2) Interaction with scientists/experts/professionals in the field, 3) Addressing common misconceptions, and 4) Implementing school and community projects that incorporate student values. Current teachers are recommended to use some or all of the strategies provided to create a safe learning environment that allows students to properly deconstruct the situation on hand (Table 1). Furthermore, early research has shown that many teachers feel underprepared to teach the topic of climate change (Michail, Stamou and Stamou, 2007; Summers et al., 2000). It is suggested that current teaching programs implement modules or courses pertaining to climate change science based on the four teaching strategies to better facilitate knowledge transfer and the requisite skills to handle complex socioscientific issues. 
 
 **Table 1**: Description of the four most effective climate change teaching strategies (Monroe et al., 2019).
@@ -31,7 +31,7 @@ Interacting with Scientists and Science | Interaction with professionals helps s
 Addressing Misconceptions | Most common misconception is the conflation of climate change and the ozone hole. Teachers should 1) encourage students to share their current knowledge, 2) take successive steps to untangle complex ideas and concepts, 3) narrow content down to focus on key learning objectives, and 4) avoid unnecessary technical terminology.|
 Implementing school and community projects | Small projects and field trips help students to relate education in the classroom. Incorporating community related activities alongside theoretical concepts discussed in the classroom increases engagement and inspires students to self-educate outside of school.
 
-## Conclusion
+### Conclusion
 
 To secure the proper development and training of future scientific leaders, Canadian governments need to ensure that all six core topics are covered in science curriculums. These curriculums should be implemented using the four teaching strategies, including open discussions, the use of technology, and field trips to engage students. The strategies proposed by our analysis outline a basic blueprint for the Canadian curriculum to establish an effective and standardized climate change education across the country. It is recommended to continue evaluating and implementing climate change education in Canada to prepare the next generation for their uncertain future.
 

@@ -5,7 +5,10 @@ nav_order: 5
 parent: Research Public Summaries
 ---
 
-# Executive Summary
+# Critical Analysis of Canadian Climate Change Policy
+## From Global Goals to Local Buildings
+
+#### Stephanie Koza, Maria Pricop, Bronwyn Riddoch & Julia Singer
 
 ### Introduction
 The main concern of climate change impacts in Canada is the risk to physical infrastructure from extreme weather events, such as heavy precipitation and high winds (Council of Canadian Academies, 2019). Due to Canada’s northern climate, homes and buildings use a large amount of energy for heating buildings which creates excess greenhouse gas (GHG) emissions and increases living prices. All levels of government must collaborate to create effective policies that protect infrastructure (Intergovernmental Panel on Climate Change, 2014). Federal and provincial/territorial policies trickle down to the municipal level where action plans are implemented, as seen in Figure 1. Results from an analysis of this process are summarized through a discussion of current government programs and policy-making considerations. 
@@ -35,7 +38,7 @@ Analysis of current Canadian policies at different levels of government revealed
 ### Conclusion
 Canada is dedicated to fighting climate change despite the lack of clarity and accountability surrounding climate policies. It is crucial that Canadians and their government work together to create effective policies and protect communities for the future. As policies are improved, more opportunities for Canadians to be involved in the fight against climate change will arise beyond those already available.
 
-### Works cited: 
+## Works cited: 
 Advisory Council of Economic Growth, 2017. The Path to Prosperity: Resetting Canada’s Growth Trajectory.
 
 Association of Municipalities Ontario, 2018. Municipal Governments in Ontario and Climate Action. [online] Toronto: Ministry of Environment, Conservation and Parks.p.7. Available at: <https://www.amo.on.ca/sites/default/files/assets/DOCUMENTS/Reports/2018/MunicipalGovernmentsinOntarioandClimate%20Action20181108.pdf>.

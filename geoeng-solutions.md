@@ -4,6 +4,10 @@ title: Geoengineering Solutions
 nav_order: 9
 parent: Research Public Summaries
 ---
+# An Analysis of Two Geoengineering Solutions Against Climate Change
+##BECCS and SAI
+
+#### Guillaume Hewitt, Ashlyn Roy, Mya Sharma, Dominic Wood
 
 ### Introduction to Geoengineering
 Geoengineering is a method of reducing or counteracting the negative impacts of climate change, by manipulating different environmental processes (Zhang et al., 2015). As climate change effects become more pronounced, geoengineering is being advocated for by the Intergovernmental Panel on Climate Change (IPCC) as a potential solution (de Coninck et al., 2018; Reynolds, 2019). There are two major geoengineering categories, carbon dioxide removal (CDR), where atmospheric CO<sub>2</sub> is directly removed, and solar radiation management (SRM), where the technology reduces the amount of sunlight reaching the Earth (Zhang et al., 2015). 
@@ -44,7 +48,7 @@ However, due to geoengineering being a rapidly growing industry, there are many 
 ### Conclusions and Next Steps
 BECCS and SAI are not directly comparable as they affect the climate through different methods. However, their comparison is important when considering the future of the Earth to make the most informed decisions. While one single geoengineering project may not be the sole solution to climate change, it is important to choose the best option and weigh the risks and rewards. BECCS appears to be more feasible than SAI, with a higher probability of being implemented in the future, possibly in conjunction with other methods of reducing CO<sub>2</sub> emissions. The execution of the solutions at maximum efficacy requires a deeper understanding of the technologies, as well as the need for public education in order to garner support. Geoengineering may hold the key to our salvation, and the merging of critical analysis and accelerated development is crucial in order to draw out its full potential.
 
-### References
+## References
 Ajayi, T., Gomes, J.S. and Bera, A., 2019. A review of CO2 storage in geological formations emphasizing modeling, monitoring and capacity estimation approaches. *Petroleum Science*, [online] 16(5), pp.1028–1063. ht<span>tps://doi.org/10.1007/s12182-019-0340-8.
 
 Brovkin, V., Petoukhov, V., Claussen, M., Bauer, E., Archer, D. and Jaeger, C., 2009. Geoengineering climate by stratospheric sulfur injections: Earth system vulnerability to technological failure. *Climatic Change*, [online] 92(3), pp.243–259. ht<span>tps://doi.org/10.1007/s10584-008-9490-1.

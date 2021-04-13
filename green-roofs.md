@@ -5,12 +5,10 @@ nav_order: 8
 parent: Research Public Summaries
 ---
 
-# Hamilton Green Roof Project: Executive Summary
-Group 8 - Zargham Ahmed, Samin Lu-Sullivan, Maia Moore, Keshikaa Suthaaharan  
-March 14, 2021  
-ISCI 3A12: Climate Change
+# Hamilton Green Roof Project
+#### Zargham Ahmed, Samin Lu-Sullivan, Maia Moore, Keshikaa Suthaaharan  
 
-## What Are Green Roofs? 
+### What Are Green Roofs? 
 Climate change is a pressing issue around the world, and cities have begun focusing on advocating for the use of green roofs to increase the amount of green space and to mitigate some of the effects of climate change within urban environments. A green roof is any layer of vegetation that is planted on flat or slightly slanted roofs, and is composed of layers as shown in Figure 1 (NPS, 2021; Green Infrastructure Ontario, 2020). There are three different types of green roofs: intensive, semi-intensive, and extensive. They differ based on the depth of the substrate and the type of plants grown (Table 1) (Manso et al., 2021). When designing green roofs, the location of implementation, the type of green roof and the plants used must be considered to optimize the benefits. We have decided to propose the implementation of green roofs in Hamilton, ON, to promote the use of green roofs in smaller urban centers within Canada.
 
 <p align="center">
@@ -26,10 +24,10 @@ Climate change is a pressing issue around the world, and cities have begun focus
   <img img width="555px" height="175px" src="assets/img/green-roofs-table1.png">
 </p>
 
-## Summary of the Impacts of Green Roofs
+### Summary of the Impacts of Green Roofs
 Green roofs have multiple positive effects on urban environments. They can act as an alternate source of income through the implementation of urban agriculture and can save money through reduction of heating and cooling costs (Manso et al., 2021; Mui, 2011). Green roofs contribute to the reduction of the UHI effect, absorb CO2 and pollutants, and promote more natural hydraulic processes within urban environments (Suszanowicz and Kolasa Więcek, 2019; Mui, 2011; Manso et al., 2021; Li and Babcock, 2014; Peng and Jim, 2015; Palla, Gnecco and Lanza, 2010; Bianchini and Hewage, 2012). Furthermore, the presence of green roofs provides habitats and refuge for pollinators and bird species within dense urban environments (Brenneisen, 2006; Mayrand and Clergeau, 2018; Kratschmer, Kriechbaum and Pachinger, 2018). Additionally, the development of additional green space in urban areas improves psychological well-being and provides educational opportunities for residents (The Calhoun School, 2021; Loder, 2014). In summary, green roofs can provide numerous economic, environmental, ecological and social benefits to Hamilton citizens.
 
-## Proposed Strategy in Hamilton
+### Proposed Strategy in Hamilton
 Through the comprehensive review of the available literature, we propose the implementation of intensive green roofs in developing regions of Hamilton, outlined in Figures 2 and 3. Though intensive green roofs are more and require more maintenance than other types of green roofs, they have numerous social, economic and environmental benefits. Importantly, intensive green roofs have a thick substrate layer which supports greater biodiversity than thinner substrate layers (Brenneisen, 2003; 2006). We further propose that the substrate surface of these green roofs should be designed with varying thicknesses and should incorporate natural soil substrates to promote biodiversity (Brenneisen, 2006).
 
 We will use community engagement to offset some of the maintenance and operational costs associated with intensive green roofs. To do this, we propose growing agricultural crops and developing educational and community programs to promote public engagement in developing regions in partnership with youth organizations and soup kitchens. Green roofs would allow Hamilton residents to reap the many psychological benefits associated with increased green spaces. 
@@ -56,7 +54,7 @@ We propose that the City of Hamilton implement the following legislation, simila
 
 *__Figure 3:__ Sites of planned development in the regions outlined in Figure 2. The areas marked by red/orange are specific lots where new condominiums or apartment buildings are being constructed (City of Hamilton, 2020a; b).*
 
-## References
+### References
 Bianchini, F. and Hewage, K., 2012. Probabilistic social cost-benefit analysis for green roofs: A lifecycle approach. *Building and Environment*, 58, pp.152–162. 
 <br>
 <br>
